@@ -1,0 +1,8 @@
+{
+  "name": "vue-code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Alibb01/vue-code.git",
+  "author": "Alibb01 <512886423@qq.com>",
+  "license": "MIT"
+}
